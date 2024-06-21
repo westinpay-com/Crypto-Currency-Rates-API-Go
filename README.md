@@ -1,6 +1,6 @@
 # Crypto-Currency-Rates-API-Go
 This repository is used to retrieve the list of currencies using WestinPay's API which provides the list of currencies.
-## WestinPay Crypto Currency Python Code
+## WestinPay Crypto Currency Go Code
 
 ```Go
 package main
